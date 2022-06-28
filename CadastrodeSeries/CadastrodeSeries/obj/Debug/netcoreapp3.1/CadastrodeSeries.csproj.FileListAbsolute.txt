@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\bin\Debug\netcoreapp3.1\CadastrodeSeries.exe
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\bin\Debug\netcoreapp3.1\CadastrodeSeries.deps.json
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\bin\Debug\netcoreapp3.1\CadastrodeSeries.runtimeconfig.json
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\bin\Debug\netcoreapp3.1\CadastrodeSeries.runtimeconfig.dev.json
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\bin\Debug\netcoreapp3.1\CadastrodeSeries.dll
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\bin\Debug\netcoreapp3.1\CadastrodeSeries.pdb
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\obj\Debug\netcoreapp3.1\CadastrodeSeries.csproj.AssemblyReference.cache
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\obj\Debug\netcoreapp3.1\CadastrodeSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\obj\Debug\netcoreapp3.1\CadastrodeSeries.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\obj\Debug\netcoreapp3.1\CadastrodeSeries.AssemblyInfo.cs
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\obj\Debug\netcoreapp3.1\CadastrodeSeries.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\obj\Debug\netcoreapp3.1\CadastrodeSeries.dll
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\obj\Debug\netcoreapp3.1\CadastrodeSeries.pdb
+C:\Users\User\Documents\DIO\CadastrodeSeries\CadastrodeSeries\CadastrodeSeries\obj\Debug\netcoreapp3.1\CadastrodeSeries.genruntimeconfig.cache

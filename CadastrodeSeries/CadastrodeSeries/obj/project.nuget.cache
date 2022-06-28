@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "KaVtVrFUN6Vkm3rvghA2+t0/DjMvv/CXHoq+QB+SYGDoEw5tf85ZkWlarjaHsrNpzjEZarvzdVb4jJ3QkLP7oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\DIO\\CadastrodeSeries\\CadastrodeSeries\\CadastrodeSeries\\CadastrodeSeries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app\\2.2.8\\microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.8\\microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.8\\microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.8\\microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.4\\microsoft.netcore.platforms.2.2.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
